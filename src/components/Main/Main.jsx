@@ -19,22 +19,22 @@ export function Main() {
     
     <section className='sectionMarcas'>
         <div className='container'>
-          <img src="/src/assets/apple.png" alt="" />
+          <img src="/image/apple.png" alt="" />
           <h2>Apple</h2>
         </div>
 
         <div className='container'>
-          <img src="/src/assets/samsung.png" alt="" />
+          <img src="/image/samsung.png" alt="" />
           <h2>Samsung</h2>
         </div>
 
         <div className='container'>
-          <img src="/src/assets/huawei.png" alt="" />
+          <img src="/image/huawei.png" alt="" />
           <h2>Huawei</h2>
         </div>
 
         <div className='container'>
-          <img src="/src/assets/xiaomi.png" alt="" />
+          <img src="/image/xiaomi.png" alt="" />
           <h2>Xiaomi</h2>
         </div>
     </section>
@@ -50,56 +50,56 @@ export function Main() {
     <section className='sectionModelos'>
       <div className='cardContainer'>
         <h3>Iphone 15</h3>
-        <img src="/src/assets/iphone15.jpg" alt="" />
+        <img src="/image/iphone15.jpg" alt="" />
         <h4>$800.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Iphone 13</h3>
-        <img src="/src/assets/iphone13.jpg" alt="" />
+        <img src="/image/iphone13.jpg" alt="" />
         <h4>$500.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Iphone 11</h3>
-        <img src="/src/assets/iphone11.jpg" alt="" />
+        <img src="/image/iphone11.jpg" alt="" />
         <h4>$350.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Samsung Galaxy S23 Ultra</h3>
-        <img src="/src/assets/samsungS23.jpg" alt="" />
+        <img src="/image/samsungS23.jpg" alt="" />
         <h4>$1.000.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Galaxy Z Fold</h3>
-        <img src="/src/assets/galaxyZfold.jpg" alt="" />
+        <img src="/image/galaxyZfold.jpg" alt="" />
         <h4>$1.200.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Xiaomi 13 Ultra</h3>
-        <img src="/src/assets/xiaomi.webp" alt="" />
+        <img src="/image/xiaomi.webp" alt="" />
         <h4>$600.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Huawei P60 Pro</h3>
-        <img src="/src/assets/huawei.webp" alt="" />
+        <img src="/image/huawei.webp" alt="" />
         <h4>$560.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>
 
       <div className='cardContainer'>
         <h3>Google Pixel 8 Pro</h3>
-        <img src="/src/assets/google.jpeg" alt="" />
+        <img src="/image/google.jpeg" alt="" />
         <h4>$800.000</h4>
         <button onClick={confirmarCompra}><h5>Comprar</h5></button>
       </div>

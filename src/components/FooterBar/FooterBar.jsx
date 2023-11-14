@@ -4,7 +4,7 @@ import './styleFooter.css'
 export function FooterBar() {
   return (
     <footer>
-      <img src="/src/assets/iconoPagina.gif" alt=""/>
+      <img src="/image/iconoPagina.gif" alt=""/>
       <h1>TuCelu</h1>
     </footer>
   )
