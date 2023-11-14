@@ -10,7 +10,7 @@
 .sectionIntro {
     display: flex;
     justify-content: left;
-    background-image: url(/src/assets/fondo.webp);
+    background-image: url(/image/fondo.webp);
     height: 400px;
     align-items: center;
     background-repeat: repeat;
